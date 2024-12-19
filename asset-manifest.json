@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/te-araroa/static/css/main.81be4f98.css",
+    "main.js": "/te-araroa/static/js/main.8c2e8230.js",
+    "static/js/453.507331ff.chunk.js": "/te-araroa/static/js/453.507331ff.chunk.js",
+    "index.html": "/te-araroa/index.html",
+    "main.81be4f98.css.map": "/te-araroa/static/css/main.81be4f98.css.map",
+    "main.8c2e8230.js.map": "/te-araroa/static/js/main.8c2e8230.js.map",
+    "453.507331ff.chunk.js.map": "/te-araroa/static/js/453.507331ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81be4f98.css",
+    "static/js/main.8c2e8230.js"
+  ]
+}
